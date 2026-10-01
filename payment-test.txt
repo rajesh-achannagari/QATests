@@ -1,1 +1,2 @@
 This is the new Payment method added to this project
+Payment methods are : UPI, Credit Card, Debit Card only.
